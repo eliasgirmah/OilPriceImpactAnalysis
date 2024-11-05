@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scipy
+statsmodels
+scikit-learn
+flask
+react
+d3.js
+recharts
