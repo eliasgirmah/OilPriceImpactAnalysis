@@ -1,0 +1,5 @@
+Flask
+pandas
+numpy
+SQLAlchemy        # If you need database interaction
+Flask-CORS        # For handling Cross-Origin Resource Sharing
